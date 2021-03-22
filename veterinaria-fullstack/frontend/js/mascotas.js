@@ -8,7 +8,7 @@ const btneliminar = document.getElementById('btn-eliminar2');
 const btnCerrar = document.getElementById('btn-cerrar1');
 const lbtitulo = document.getElementById('exampleModalCenterTitle');
 const listamascotas = document.getElementById('lista-mascotas');
-const url= "https://veterinaria-backend-olive.vercel.app/mascotas";
+const url= "https://veterinaria-backend-nbx07molx-williams334.vercel.app/mascotas";
 
 let mascotas = [];
 
